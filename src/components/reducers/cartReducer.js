@@ -30,7 +30,7 @@ const initState = {
       id: 2,
       title: "Nike Element 87",
       desc:
-        "Adding vintage elements to a new silhouette, the Nike React Element 87 borrows design lines from heritage runners like the Nike Internationalist. It's all meant to add '90s graphics in bold colors.",
+        "Adding vintage elements to a new silhouette, the Nike Element 87 borrows design lines from heritage runners like the Nike Internationalist. It's all meant to add '90s graphics in bold colors.",
       price: 135,
       img: Item6
     },
@@ -38,7 +38,7 @@ const initState = {
       id: 3,
       title: "Nike Airmax 270",
       desc:
-        "The bold silhouette of Nike Air lifts the Nike Air Max 270 React to new heights, while the Nike React foam midsole delivers exceptional cushioning. Imagine all-day comfort with unstoppable style.",
+        "Bold silhouette of Nike Air lifts the Nike Air Max 270 React to new heights, while the Nike React foam midsole delivers exceptional cushioning. Imagine all-day comfort with unstoppable style.",
       price: 165,
       img: Item2
     },
@@ -46,7 +46,7 @@ const initState = {
       id: 4,
       title: "Puma RS x TOYS",
       desc:
-        "X marks extreme. Exaggerated. The new RS-X tells stories of reinvention to the extreme. Design inspired by collectible vinyl toys, it celebrates the reinvention of toys in and beyond sneaker culture.",
+        "X marks extreme Exaggerated. The new RS-X tells stories of reinvention to the extreme. Design inspired by collectible vinyl toys, it celebrates the reinvention of toys beyond sneaker culture.",
       price: 120,
       img: Item3
     },
@@ -54,7 +54,7 @@ const initState = {
       id: 5,
       title: "Adidas NMD CS2",
       desc:
-        "Step into the NMD CS2 Primeknit from adidas Originals for the retro style. The sleek slip-on design and embroidered details ensure you’ll stand out, and the sock-like upper gives you a snug, secure fit.",
+        "Step into the NMD CS2 Primeknit from adidas for the retro style. The sleek slip-on design and embroidered details ensure you’ll stand out, and the sock-like upper gives you a snug secure fit.",
       price: 95,
       img: Item4
     },
@@ -62,7 +62,7 @@ const initState = {
       id: 6,
       title: "Air Jordan 1",
       desc:
-        "Continuing the legacy that goes back to 1985, the Men's Air Jordan 1 Mid Retro Basketball Shoes offers a look that ballers and sneakerheads everywhere just can't get enough of style and comfort wear.",
+        "Continuing the legacy that goes back to 1985, the Men's Air Jordan 1 Mid Retro Basketball Shoes offers ballers look and sneakerhead everywhere just can't get enough of style and comfort wear.",
       price: 160,
       img: Item5
     },
